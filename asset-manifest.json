@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/academy/static/css/main.4a6fca39.css",
-    "main.js": "/academy/static/js/main.72d0718d.js",
-    "static/js/787.13cf2cae.chunk.js": "/academy/static/js/787.13cf2cae.chunk.js",
-    "static/media/Rome-Academy.png": "/academy/static/media/Rome-Academy.d3732f8143c56ff52122.png",
-    "index.html": "/academy/index.html",
-    "main.4a6fca39.css.map": "/academy/static/css/main.4a6fca39.css.map",
-    "main.72d0718d.js.map": "/academy/static/js/main.72d0718d.js.map",
-    "787.13cf2cae.chunk.js.map": "/academy/static/js/787.13cf2cae.chunk.js.map"
+    "main.css": "/static/css/main.4a6fca39.css",
+    "main.js": "/static/js/main.71f30152.js",
+    "static/js/787.13cf2cae.chunk.js": "/static/js/787.13cf2cae.chunk.js",
+    "static/media/Rome-Academy.png": "/static/media/Rome-Academy.d3732f8143c56ff52122.png",
+    "index.html": "/index.html",
+    "main.4a6fca39.css.map": "/static/css/main.4a6fca39.css.map",
+    "main.71f30152.js.map": "/static/js/main.71f30152.js.map",
+    "787.13cf2cae.chunk.js.map": "/static/js/787.13cf2cae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a6fca39.css",
-    "static/js/main.72d0718d.js"
+    "static/js/main.71f30152.js"
   ]
 }
