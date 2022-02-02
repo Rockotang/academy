@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.a0ddb292.css",
-    "main.js": "/static/js/main.5f37efc2.js",
+    "main.js": "/static/js/main.a18a8145.js",
     "static/js/787.13cf2cae.chunk.js": "/static/js/787.13cf2cae.chunk.js",
     "static/media/Rome-Academy.png": "/static/media/Rome-Academy.d3732f8143c56ff52122.png",
     "index.html": "/index.html",
     "main.a0ddb292.css.map": "/static/css/main.a0ddb292.css.map",
-    "main.5f37efc2.js.map": "/static/js/main.5f37efc2.js.map",
+    "main.a18a8145.js.map": "/static/js/main.a18a8145.js.map",
     "787.13cf2cae.chunk.js.map": "/static/js/787.13cf2cae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0ddb292.css",
-    "static/js/main.5f37efc2.js"
+    "static/js/main.a18a8145.js"
   ]
 }
